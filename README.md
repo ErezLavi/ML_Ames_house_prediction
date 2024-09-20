@@ -1,5 +1,5 @@
 # House prices prediction
-In this notebook, i predicted house prices using 7 regression algorithms: <br>
+In this notebook, i predicted house prices in the city Ames, lowa- using 7 regression algorithms: <br>
 >Locally Weighted Linear Regression (LWLR)<br>
 
 >K-Nearest Neighbors (KNN)<br>
